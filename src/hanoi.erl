@@ -1,9 +1,9 @@
-%% @author Miao Cai
+%% @author Hephaest
 %% Created : 11. April 2019 7:23 PM
 %% @doc This module is used to display and solve the Hanoi solution step by step.
 
 -module(hanoi).
--author("Miao Cai").
+-author("Hephaest").
 
 %% ==================================================================================================================
 %% API functions

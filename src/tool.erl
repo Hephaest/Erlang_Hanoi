@@ -1,8 +1,8 @@
-%% @author Miao Cai
+%% @author Hephaest
 %% @doc This module is used to provide fundamental methods to handle list without using other existing modules.
 %% Created : 13. Apr 2019 3:34 AM
 -module(tool).
--author("Miao Cai").
+-author("Hephaest").
 
 %% ==================================================================================================================
 %% API functions

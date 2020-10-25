@@ -1,17 +1,8 @@
-Table of Contents
-=================
-   * [Hanoi](#hanoi)
-   * [Rules](#rules)
-   * [Basic Algorithm](#basic-algorithm)
-   * [Erlang Program For Hanoi](#erlang-program-for-hanoi)
-
 # Hanoi
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Hephaest/Hanoi/blob/master/LICENSE)
 [![Dependencies](https://img.shields.io/badge/Dependencies-up%20to%20date-green.svg)](https://github.com/Hephaest/Hanoi/tree/master/src)
 
 English | [中文](README_CN.md)
-
-Last updated on `2019/07/09`
 
 # Rules
 We have **rules** to specify the 3-tower Hanoi issue:
